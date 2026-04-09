@@ -1,6 +1,7 @@
 # 1. Imprime "Hola, mundo"
 print("Hola, mundo")
 print("Estoy practicando Git")
+print ("Me encanta programar en Python")
 
 # 2. Imprime "Hola, Lucas" con el nombre en una variable
 nombre = "Lucas"
